@@ -1,4 +1,4 @@
-# <h1> 🪟 AWS Windows Active Directory Detection </h1>
+# <h1> 🪟 Windows Active Directory Threat Detection </h1>
 
  ### [Medium Walkthrough](https://youtu.be/7eJexJVCqJo)
 
